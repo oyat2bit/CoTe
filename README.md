@@ -1,4 +1,4 @@
-# CoTe
+# CoTe Team Notes
 with Python
 
 ### 백준(BOJ)
